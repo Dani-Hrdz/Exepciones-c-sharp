@@ -1,0 +1,7 @@
+C:\Users\UsuarioX\Documents\GitHub\Exepciones-c-sharp\ExepcionesC-Sharp\bin\Debug\ExepcionesC-Sharp.exe.config
+C:\Users\UsuarioX\Documents\GitHub\Exepciones-c-sharp\ExepcionesC-Sharp\bin\Debug\ExepcionesC-Sharp.exe
+C:\Users\UsuarioX\Documents\GitHub\Exepciones-c-sharp\ExepcionesC-Sharp\bin\Debug\ExepcionesC-Sharp.pdb
+C:\Users\UsuarioX\Documents\GitHub\Exepciones-c-sharp\ExepcionesC-Sharp\obj\Debug\ExepcionesC-Sharp.csproj.AssemblyReference.cache
+C:\Users\UsuarioX\Documents\GitHub\Exepciones-c-sharp\ExepcionesC-Sharp\obj\Debug\ExepcionesC-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\UsuarioX\Documents\GitHub\Exepciones-c-sharp\ExepcionesC-Sharp\obj\Debug\ExepcionesC-Sharp.exe
+C:\Users\UsuarioX\Documents\GitHub\Exepciones-c-sharp\ExepcionesC-Sharp\obj\Debug\ExepcionesC-Sharp.pdb
